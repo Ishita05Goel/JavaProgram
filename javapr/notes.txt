@@ -1,0 +1,14 @@
+conditional statements:
+      if else and switch case
+greatest of four numbers
+getBill
+string result = "total balance"
+sop(result)
+scanner and buffer is form of buffer
+loops:-
+prime numbers
+h.w
+try prime number between 1 to N
+practice question - 
+num = 24167-swap first and last digit
+o/p = 74162
